@@ -1,0 +1,4 @@
+.cache/
+src/__pycache__/
+src/add.egg-info/
+tests/__pycache__/
